@@ -4,6 +4,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import Main from './components/Main.vue'
 import AboutUs from './components/AboutUs.vue'
 import PrivacyPolicy from './components/PrivacyPolicy.vue'
+import TermsOfService from './components/TermsOfService.vue'
 
 const routes = [
   {
@@ -20,6 +21,11 @@ const routes = [
     path: '/privacyPolicy',
     name: 'PrivacyPolicy',
     component: PrivacyPolicy
+  },
+  {
+    path: '/termsOfService',
+    name: 'TermsOfService',
+    component: TermsOfService
   }
 ]
 

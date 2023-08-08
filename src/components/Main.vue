@@ -83,13 +83,13 @@ import AboutUs from './AboutUs.vue'
         <div class="bottomLayout">
             <div class="bottomOneLayout">
                 <div>
-                    <router-link to="/about">About Us</router-link>
+                    <router-link to="/about" class="routerLink">About Us</router-link>
                 </div>
                 <div>
-                    <router-link to="/privacyPolicy">Privacy Policy.</router-link>
+                    <router-link to="/privacyPolicy" class="routerLink">Privacy Policy.</router-link>
                 </div>
                 <div>
-                    <router-link to="/about">Terms of Service</router-link>
+                    <router-link to="/termsOfService" class="routerLink">Terms of Service</router-link>
                 </div>
             </div>
 
@@ -108,6 +108,12 @@ import AboutUs from './AboutUs.vue'
 </template>
 
 <style scoped>
+
+.routerLink {
+    color: white;
+    text-decoration: none;
+}
+
 .bottomThreeLayout {
     display: flex;
     flex-flow: column;
