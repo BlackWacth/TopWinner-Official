@@ -1,4 +1,7 @@
 <script setup>
+import AboutUs from './AboutUs.vue'
+
+
 </script>
 
 <template>
@@ -13,9 +16,9 @@
 
         <div class="firstTextLayout">
             <h3>Try Our Top Games for Non-Stop Fun</h3>
-            <p>Tap winner the ultimate all-in-one gaming platform. Our online web game is exclusively available for mobile browsers. You can browse games online free to play and look for fun games to download.</p>
-            <h3>Why Play Free Casino Games at TAPWINNER?</h3>
-            <p>Experience the excitement of casino apps that pay real money by playing popular skill-based games for free at Tap winner. You can also enjoy the best and cool games mobile games of 2023 and join the ranks of skilled players. see what our users are saying about real cash games in Tap winner!</p>
+            <p>Tapwinner the ultimate all-in-one gaming platform. Our online web game is exclusively available for mobile browsers. You can browse games online free to play and look for fun games to download.</p>
+            <h3>Why play free casual competitive games on TAPPINNER?</h3>
+            <p>Play popular skill based games for free on TapWinner and experience the thrill of paying real money. You can also enjoy the best and coolest mobile games of 2023 and join the ranks of skilled players. Take a look at our users' experience reviews in TapWinner!</p>
             <h5>PEOPLE SAID</h5>
         </div>
 
@@ -27,15 +30,15 @@
                     src="../assets/image/ic_man.png"/>
 
                 <div class="oneTextLayout">
-                    <h1 class="oneTitle">Always Fresh, Always Fun</h1>
-                    <p class="oneContent">I’ve been playing Tapwinner for a while and have always enjoyed the games and the app! About a month ago there was a huge and awesome update to the app and I love all the changes! There is now a ranking system with cash paid out depending on rank, and a new ticket system that offers rewards in exchange for tickets.<br /><br />Stacy C Joined 05/02 2019</p>
+                    <h1 class="oneTitle">Always fresh, always interesting</h1>
+                    <p class="oneContent">I have been playing TapWinner for a while and have always loved games and applications! About a month ago, the application underwent a huge and amazing update, and I love all the changes! There is now a ranking system that pays cash based on rankings, and a new ticket system that offers rewards in exchange for tickets.<br /><br />Stacy C joined 05/02/2019</p>
                 </div>
             </div>
             <div class="oneLine"></div>
             <div class="twoLineLayout">
                 <div class="twoTextLayout">
-                    <h1 class="twoTitle">Easy navigation, endless excitement</h1>
-                    <p class="twoContent">Completely addicted to this app! It is easy to navigate and the designers are always introducing new tasks and challenges. I, also, like how many ways I have to either win money or play for tickets. The new option of paying with tickets to get money was an awesome addition.<br /><br />Bagelslinger Joined 05/28 2019</p>
+                    <h1 class="twoTitle">Easy navigation and unlimited excitement</h1>
+                    <p class="twoContent">Completely addicted to this application! It is easy to navigate, and designers are always introducing new tasks and challenges. Also, for example, how many methods do I have to win money or play lottery. The new option of paying with tickets is a great addition.<br /><br />Bagelslinger joined on May 28, 2019</p>
                 </div>
                 <img
                     class="imageTwo"
@@ -50,27 +53,27 @@
                     src="../assets/image/ic_old_man.png"/>
 
                 <div class="threeTextLayout">
-                    <h1 class="threeTitle">Real Rewards, Easy Entry</h1>
-                    <p class="threeContent">I'd say that Tap winner is one of the apps I use most on my phone. There's Instagram, Facebook (Marketplace especially), Tiktok, and Pocket7Games. Seriously, it's just like the games they play, except I can win money! Speaking of tournaments, that's probably my favorite and also a curse at the same time.  You'll get all the bonuses from making regular deposits and you'll make some nice little prizes every so often. Try it out and see!<br /><br />Chaerithecatty Joined 9/13/2021</p>
+                    <h1 class="threeTitle">Real rewards, easy to get started</h1>
+                    <p class="threeContent">I would like to say that Tap Winner is one of the applications I use the most on my phone. There are Instagram, Facebook (especially Marketplace) and Tiktok. To be honest, it's like the game they play, except that I can win money! Speaking of tournaments, this may be my favorite and also a curse. You will receive all the bonuses from your fixed deposit, and occasionally you will also receive some good small prizes. Give it a try!<br /><br />Chaerithecatty joined on September 13, 2021</p>
                 </div>
             </div>
         </div>
 
         <div class="thirdTextLayout">
-            <h1>Want to Play Games That Pay Real Money?</h1>
-            <p>Are you looking for money making games? Unlock your gaming potential with our selection of the best games to win real money! </p>
-            <p>​Don't waste your time on games that don't pay.  Look no further than casino apps that pay real money. With the rise of mobile technology, there are now many options for playing casino games right from your smartphone or tablet. But not all casino apps are fair. If you are interested in earning real money, it's important to choose money making games app that offers legitimate and secure options for cashing out your winnings.</p>
-            ​<p>One popular option for casino apps that pay real money is Tapwinner. Our app offers a range of games that are not only fun and addictive, but also offer the chance to win real money. From classic card games like blackjack and poker, to exciting new games like marble blast and 8 ball pool, and more.</p>
-            <p>So what are you waiting for? Start playing our legit money making games and get paid today!</p>
+            <h1>Want to play a game that pays real gold and silver?</h1>
+            <p>Are you looking for money making games? Unlock your gaming potential and win real gold and silver with our selected best games!</p>
+            <p>Don't waste time on unpaid games. With the rise of mobile technology, there are now many options to play casual competitive games directly from smartphones or tablets. But not all applications are fair. If you are interested in earning real money, it is important to choose a money making game application that provides legal and secure options to cash in on your bonuses.</p>
+            ​<p>TapWinner is a popular option for casual competitive gaming applications that pay real money. Our application offers a series of games that are not only interesting and addictive, but also provide opportunities to win real gold and silver. From classic card games such as Blackjack and Poker, to exciting new games such as Marble Explosion and 8-ball Pool, and more.</p>
+            <p>What are you waiting for? Start playing our legitimate money making game and get paid today!</p>
         </div>
 
         <div class="fourthTextLayout">
-            <h1>Legit Cash Games: Casino Apps That Pay Real Money</h1>
-            <p>To get started, simply download the app from your app store and create an account. You'll be able to start playing right away, and can even earn bonus cash just for signing up.</p>
-            <p>And when you're ready to cash out your winnings, tapwinner makes it easy to transfer your funds to your PayPal account or other preferred payment methods.</p>
-            <p>But tapwinner isn't the only casino app that pays real money. Many other options are available in both the app store and through your browser, so be sure to research and choose an app that is right for you.</p>
-            <p>And remember, when playing free casino games for real money, it's important to always play responsibly and never risk more than you can afford to lose.</p>
-            <p>Discover casino apps that match your interests and gain insider tips on how to win with us. You will be the next big winner! Explore now and  download free games today</p>
+            <h1>Real Cash Game: A Leisure Competitive Game Application that Pays Real Gold and Silver</h1>
+            <p>To start, simply download the application from the app store and create an account. You can start the competition immediately and even earn bonuses by registering.</p>
+            <p>When you are ready to cash out your bonus, tapwinner can easily transfer funds to your PayPal account or other preferred payment method.</p>
+            <p>But TapWinner is not the only casual competitive game application that pays real money. There are many other options in both the app store and browser, so it is important to study and choose the application that suits you.</p>
+            <p>Please remember, when playing free games with real gold and silver, it is important to always play responsibly and never take risks beyond your ability.</p>
+            <p>Discover leisure competitive game applications that match your interests and receive insider tips on how to win with us. You will be the next big winner! Explore and download free games now.</p>
         </div>
 
         <img class="cashBattle" src="../assets/image/ic_cash_battle.png"/>
@@ -79,9 +82,15 @@
 
         <div class="bottomLayout">
             <div class="bottomOneLayout">
-                <div>About Us</div>
-                <div>Privacy Policy.</div>
-                <div>Terms of Service</div>
+                <div>
+                    <router-link to="/about">About Us</router-link>
+                </div>
+                <div>
+                    <router-link to="/privacyPolicy">Privacy Policy.</router-link>
+                </div>
+                <div>
+                    <router-link to="/about">Terms of Service</router-link>
+                </div>
             </div>
 
             <div class="bottomTwoLayout">
